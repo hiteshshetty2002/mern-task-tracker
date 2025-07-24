@@ -19,9 +19,10 @@ This app allows users to create, update, complete, and delete tasks.
 
 ### Backend
 
-cd Task-tracker-Backend  
-npm install  
-npm start
+bash
+cd Task-tracker-Backend
+npm install
+npm start
 
 ### Frontend
 
