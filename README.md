@@ -1,11 +1,13 @@
 # MERN Task Tracker
 
 A full-stack task tracker built using MongoDB, Express, React, and Node.js.
+This app allows users to create, update, complete, and delete tasks.
 
 ## Features
-- Add, edit, and delete tasks
-- Mark tasks as complete
-- Responsive interface
+-Add, update, mark complete, and delete tasks
+- Responsive React frontend (Material UI)
+- Express REST API backend
+- MongoDB for persistent storage
 
 ## Tech Stack
 - MongoDB
@@ -16,14 +18,14 @@ A full-stack task tracker built using MongoDB, Express, React, and Node.js.
 ## Installation
 
 ### Backend
-cd task-tracker-backend
-npm install
-npm start
+-cd task-tracker-backend
+-npm install
+-npm start
 
 ### Frontend
-cd task-tracker-frontend
-npm install
-npm start
+-cd task-tracker-frontend
+-npm install
+-npm start
 
 ## Usage
 
@@ -32,6 +34,9 @@ npm start
 
 ## License
 MIT
+
+## Contributing
+Pull requests are welcome. Open an issue first to discuss any major changes.
 
 ## Contact
 hiteshshetty2002@gmail.com
